@@ -53,6 +53,19 @@ a {
   color: white;
   border-color: #878787;
 }
+.btn-primary:hover {
+  background: #878787;
+  border-color: #e86b22;
+}
+.btn-success {
+  background: #878787;
+  color: white;
+  border-color: #e86b22;
+}
+.btn-success:hover {
+  background: #e86b22;
+  border-color: #878787;
+}
 .weather-temperature img {
   margin-right: 6px;
   height: 64px;
